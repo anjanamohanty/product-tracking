@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  link_to_board: MyString
+  state: MyString
+  name: MyString
+
+two:
+  link_to_board: MyString
+  state: MyString
+  name: MyString
